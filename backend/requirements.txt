@@ -7,9 +7,6 @@ langchain-core
 langchain-openai
 langchain-google-genai
 langchain-community
-chromadb
-langchain-chroma
-sentence-transformers
 PyPDF2
 pdfplumber
 python-docx
